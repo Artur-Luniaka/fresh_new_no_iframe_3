@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "email": "support@getmodifications.com",
+    "phone": "+61 2 0088 5691",
+    "address": {
+      "street": "11 Rose Lane",
+      "city": "Melbourne",
+      "state": "VIC",
+      "postal": "3000",
+      "country": "Australia"
+    },
+    "hours": {
+      "weekdays": "9:00 AM - 6:00 PM AEST"
+    }
+  }
+}

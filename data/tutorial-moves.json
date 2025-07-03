@@ -1,0 +1,40 @@
+{
+  "moves": [
+    {
+      "name": "Basic Bounce",
+      "description": "Tap the screen rhythmically to maintain a steady bounce. The ball responds to your timing - find your rhythm!",
+      "timing": "500ms between taps",
+      "difficulty": "Beginner"
+    },
+    {
+      "name": "Double Tap",
+      "description": "Quick double tap creates a higher bounce, giving you more time for the next move. Master the timing!",
+      "timing": "200ms between double taps",
+      "difficulty": "Intermediate"
+    },
+    {
+      "name": "Spin Control",
+      "description": "Hold and slide to add spin, creating curved trajectories. Perfect for style points!",
+      "timing": "Hold 300ms, slide direction",
+      "difficulty": "Advanced"
+    },
+    {
+      "name": "Combo Chain",
+      "description": "Chain different moves together to create spectacular combinations. The key to high scores!",
+      "timing": "Varies by combo",
+      "difficulty": "Expert"
+    },
+    {
+      "name": "Air Time",
+      "description": "Master the perfect timing to keep the ball in the air longer. Increase your score multiplier with each successful float!",
+      "timing": "800ms hold",
+      "difficulty": "Advanced"
+    },
+    {
+      "name": "Power Bounce",
+      "description": "Charge your bounce by holding down, then release for an explosive upward trajectory. Great for starting complex combinations!",
+      "timing": "1000ms charge",
+      "difficulty": "Expert"
+    }
+  ]
+}

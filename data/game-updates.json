@@ -1,0 +1,26 @@
+{
+  "updates": [
+    {
+      "title": "New Ball Physics Update",
+      "date": "2024-03-15",
+      "content": "We've completely revamped our ball physics engine! Experience more realistic bounces, improved spin mechanics, and smoother overall gameplay. The new system provides better feedback on perfect timing and adds subtle visual cues for combo opportunities.",
+      "image": "assets/ball-1.jpg"
+    },
+    {
+      "title": "Custom Rhythm Patterns",
+      "date": "2024-03-01",
+      "content": "Introducing custom rhythm patterns! Create your own beat sequences and challenge other players to match them. The new pattern editor lets you design complex juggling routines with custom timing and movement requirements.",
+      "image": "assets/ball-2.jpg"
+    }
+  ],
+  "features": [
+    {
+      "title": "New Ball Physics Update",
+      "content": "Experience more realistic bounces and improved spin mechanics"
+    },
+    {
+      "title": "Custom Rhythm Patterns",
+      "content": "Create your own beat sequences and challenge other players"
+    }
+  ]
+}

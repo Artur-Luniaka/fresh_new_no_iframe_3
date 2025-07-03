@@ -1,0 +1,51 @@
+{
+  "modes": [
+    {
+      "name": "Beginner's Rhythm",
+      "description": "Perfect for newcomers to learn basic juggling patterns and timing",
+      "difficulty": "Easy",
+      "highScore": 1000
+    },
+    {
+      "name": "Speed Challenge",
+      "description": "Test your reflexes with rapid-fire juggling sequences",
+      "difficulty": "Medium",
+      "highScore": 2500
+    },
+    {
+      "name": "Combo Master",
+      "description": "Chain complex combinations for maximum points",
+      "difficulty": "Hard",
+      "highScore": 5000
+    },
+    {
+      "name": "Freestyle Pro",
+      "description": "Create your own juggling patterns and earn style points",
+      "difficulty": "Expert",
+      "highScore": 10000
+    }
+  ],
+  "combos": [
+    {
+      "player": "RhythmMaster99",
+      "combo": "Triple Spin + Air Stall + Perfect Landing",
+      "score": 15000,
+      "date": "2024-03-14",
+      "image": "assets/combo-1.jpg"
+    },
+    {
+      "player": "BounceKing",
+      "combo": "Infinite Juggle (30 seconds)",
+      "score": 12500,
+      "date": "2024-03-13",
+      "image": "assets/combo-2.jpg"
+    },
+    {
+      "player": "SpinQueen",
+      "combo": "Double Spin + Cross Pattern",
+      "score": 11000,
+      "date": "2024-03-12",
+      "image": "assets/combo-3.jpg"
+    }
+  ]
+}
